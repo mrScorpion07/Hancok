@@ -1,0 +1,907 @@
+/*======XL DEVICE======*/
+@media(min-width:1200px) and (max-width:1399px){
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding: 11px 17px;
+    }
+    .right-navbar {
+        margin-left: 267px;
+        margin-top: 17px;
+    }
+    .sticky-menu .right-navbar {
+        margin-left: 301px;
+    }
+    .banner-left-content h1 {
+        display: inline-block;
+    }
+    .banner-left-content h1::before {
+        bottom: 3px;
+        right: -104px;
+        width: 100px;
+    }
+    .banner-left-content p {
+        padding-right: 0px;
+    }
+    .about-left h4 {
+        font-size: 30px;
+        width: 380px;
+    }
+    .about-left ul li {
+        font-size: 18px;
+    }
+    .about-left p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .main-link {
+        padding: 12px 16px;
+    }
+    .about-left-btn a {
+        font-size: 14px;
+    }
+    .counter-up h3 {
+        font-size: 45px;
+    }
+    .counter-up p {
+        font-size: 16px;
+    }
+    .trending-bg {
+        padding-bottom: 136px;
+        clip-path: polygon(24% 0, 100% 0, 82% 100%, 0% 100%);
+    }
+    .trendimg-image {
+        top: -244px;
+        transform: scale(.9);
+    }
+    .area-trend{
+        margin-top: 80px!important;
+    }
+    .item-sale{
+        margin-bottom: 50px;
+    }
+    .team-details p {
+        padding-right: 179px;
+    }
+    #faq .header h2::after {
+        right: 197px;
+    }
+    
+}
+/*======LG DEVICE======*/
+@media(min-width:992px) and (max-width:1199px){
+    .right-navbar {
+        margin-left: 121px;
+        margin-top: 17px;
+    }
+    .banner-left-content h1 {
+        display: inline-block;
+    }
+    .banner-left-content h1::before {
+        bottom: 3px;
+        right: -104px;
+        width: 100px;
+    }
+    .banner-left-content p {
+        padding-right: 0px;
+    }
+    .about-left h4 {
+        font-size: 23px;
+        width: 304px;
+    }
+    .about-left ul li {
+        font-size: 16px;
+    }
+    .about-left p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .main-link {
+        padding: 12px 16px;
+    }
+    .about-left-btn a {
+        font-size: 14px;
+    }
+    .counter-up h3 {
+        font-size: 45px;
+    }
+    .counter-up p {
+        font-size: 16px;
+    }
+    .trending-bg {
+        padding-bottom: 87px;
+        clip-path: polygon(24% 0, 100% 0, 82% 100%, 0% 100%);
+    }
+    .trendimg-image {
+        top: -222px;
+        transform: scale(.8);
+    }
+    .area-trend{
+        margin-top: 60px!important;
+    }
+    #tournament .play-icon i {
+        font-size: 16px;
+        width: 45px;
+        height: 45px;
+        line-height: 43px;
+    }
+    .tour-content h3 {
+        font-size: 20px;
+    }
+    .tour-content p {
+        font-size: 14px;
+    }
+    .tour-right p {
+        font-size: 14px;
+    }
+    .tour-right span {
+        width: 4px;
+        height: 4px;
+    }
+    .right-trnmnt h4 {
+        font-size: 23px;
+    }
+    .item-sale{
+        margin-bottom: 50px;
+    }
+    .product-details h5 {
+        font-size: 21px;
+    }
+    .product-details a {
+        font-size: 14px;
+    }
+    .team-details p {
+        padding-right: 90px;
+    }
+    #faq .header h2::after {
+        right: 76px;
+    }
+    .main-faq-part {
+        margin-bottom: 69px;
+    }
+    .right-faq h4 {
+        font-size: 20px;
+    }
+    .right-faq p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .intro h2 {
+        font-size: 32px;
+    }
+    .left-footer-content p {
+        padding-right: 0px;
+        line-height: 24px;
+    }
+}
+/*======MD DEVICE======*/
+@media(min-width:768px) and (max-width:991px){
+    .sidebar-menu{
+        text-align: center;
+    }
+    .sidebar-menu ul li {
+        margin-bottom: 27px;
+    }
+    #banner {
+        padding-top: 163px;
+        padding-bottom: 75px;
+    }
+    .banner-left-content h3 {
+        font-size: 20px;
+    }
+    .banner-left-content h1 {
+        font-size: 32px;
+        display: inline-block;
+    }
+    .banner-left-content h1::before {
+        bottom: 3px;
+        right: -60px;
+        width: 56px;
+    }
+    .banner-left-content p {
+        font-size: 14px;
+        padding-right: 0;
+    }
+    .banner-read {
+        margin-top: 15px;
+    }
+    .banner-read a {
+        font-size: 14px;
+    }
+    .ban-link {
+        padding: 7px 12px;
+    }
+    .about-left h4 {
+        width: 350px;
+    }
+    .counter-up {
+        margin-bottom: 20px;
+        padding: 19px;
+    }
+    .counter-up h3 {
+        font-size: 50px;
+    }
+    #tournament {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .right-trnmnt{
+        text-align: center;
+    }
+    .item-tournament:hover .image-of-tornmnt img {
+        transform: scale(1) rotate(0deg);
+        -webkit-transform: scale(1) rotate(0deg);
+        -moz-transform: scale(1) rotate(0deg);
+        -ms-transform: scale(1) rotate(0deg);
+        -o-transform: scale(1) rotate(0deg);
+    }
+    .main-item-tour.slick-center .item-tournament {
+        transform: scale(1);
+        -webkit-transform: scale(1);
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+    }
+    .image-of-tornmnt img {
+        filter: grayscale(0);
+        -webkit-filter: grayscale(0);
+    }
+    .main-trnmt {
+        background-color: #212121;
+        padding: 10px;
+        clip-path: polygon(0 0, 100% 0, 93% 100%, 0% 100%);
+    }
+    .second-trnmt {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 8% 100%);
+    }
+    .right-trnmnt h4 {
+        font-size: 18px;
+    }
+    .item-sale{
+        margin-bottom: 50px;
+    }
+    .inner-catalog-header p {
+        font-size: 14px;
+    }
+    .catalog-body h5 {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .catalog-body p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    #catalog .popular h2 {
+        text-align: start;
+        font-size: 36px;
+    }
+    .product-details h5 {
+        font-size: 20px;
+    }
+    .product-details a {
+        font-size: 14px;
+    }
+    #faq .header h2::after {
+        right: 155px;
+    }
+    .main-faq-part {
+        margin-bottom: 69px;
+    }
+    .right-faq h4 {
+        font-size: 18px;
+    }
+    .right-faq p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .intro h2 {
+        font-size: 29px;
+        line-height: 33px;
+    }
+    .left-footer-content p {
+        font-size: 14px;
+        padding-right: 0px;
+        line-height: 23px;
+    }
+    .contact-info{
+        margin-top: 15px;
+    }
+}
+/*======SM DEVICE======*/
+@media(min-width:576px) and (max-width:767px){
+    .sidebar-menu{
+        text-align: center;
+    }
+    .sidebar-menu ul li {
+        margin-bottom: 27px;
+    }
+    #banner {
+        padding-top: 163px;
+        padding-bottom: 75px;
+    }
+    .banner-left-content h3 {
+        font-size: 20px;
+    }
+    .banner-left-content h1 {
+        font-size: 32px;
+        display: inline-block;
+    }
+    .banner-left-content h1::before {
+        bottom: 3px;
+        right: -60px;
+        width: 56px;
+    }
+    .banner-left-content p {
+        font-size: 14px;
+        padding-right: 0;
+        line-height: 21px;
+        text-align: justify;
+    }
+    .banner-read {
+        margin-top: 15px;
+    }
+    .banner-read a {
+        font-size: 14px;
+    }
+    .ban-link {
+        padding: 7px 12px;
+    }
+    #about {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #about .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #about .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .about-bg::after {
+        top: -2px;
+        left: -3px;
+        border-width: 150px 188px 0 0;
+    }
+    .about-left h4 {
+        font-size: 20px;
+        width: 300px;
+        margin: 20px 0;
+    }
+    .about-left ul li {
+        font-size: 16px;
+    }
+    .about-left p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .counter-up {
+        margin-bottom: 20px;
+        padding: 19px;
+    }
+    .counter-up h3 {
+        font-size: 50px;
+    }
+    #trend {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #trend .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #trend .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    #tournament {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #tournament .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #tournament .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .right-trnmnt{
+        text-align: center;
+    }
+    .left-tour{
+        margin: 0 auto;
+    }
+    .main-trnmt {
+        background-color: #212121;
+        padding: 10px;
+        clip-path: none;
+    }
+    #sale {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #sale .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #sale .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .item-sale{
+        margin-bottom: 50px;
+    }
+    .main-catalog {
+        padding: 15px;
+        padding-bottom: 40px;
+    }
+    .catalog-header{
+        text-align: center;
+    }
+    .inner-catalog-header p {
+        text-align: center;
+    }
+    .catalog-body h5 {
+        font-size: 25px;
+        line-height: 38px;
+        text-align: center;
+    }
+    .catalog-body p {
+        font-size: 14px;
+        line-height: 24px;
+        text-align: center;
+    }
+    .catalog-browse {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    #catalog .popular h2 {
+        text-align: start;
+        font-size: 35px;
+    }
+    .catalog-browse button {
+        font-size: 14px;
+        padding: 7px 12px;
+    }
+    #store {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #store  .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #store  .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .product-details h5 {
+        font-size: 24px;
+    }
+    #team  .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #team  .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    #faq {
+        padding-top: 40px;
+        padding-bottom: 80px;
+    }
+    #faq   .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #faq  .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .all-faq-item:after,
+    .all-faq-item::before{
+        display: none;
+    }
+    .right-faq{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .main-faq-part {
+        margin-bottom: 40px !important;
+    }
+    .right-faq h4 {
+        font-size: 18px;
+    }
+    .right-faq p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .footer-top {
+        padding: 15px;
+        margin-top: -150px;
+    }
+    .intro h2 {
+        font-size: 22px;
+        line-height: 33px;
+    }
+    .newsletter .form-control {
+        padding-left: 10px;
+        padding-right: 124px;
+    }
+    .left-footer-content p {
+        font-size: 14px;
+        padding-right: 0px;
+        line-height: 24px;
+    }
+    .footer-links ul li a i {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+        margin-right: 2px;
+    }
+    .inner-footer-gal {
+        justify-content: center;
+    }
+    .popular{
+        text-align: center;
+    }
+    #wishlist .wishlist-content h3 {
+        font-size: 40px;
+    }
+    #wishlist .wishlist-content p {
+        font-size: 22px;
+    }
+}
+/*======XS DEVICE======*/
+@media(max-width:575.99px){
+    .modal-footer .button {
+        margin-bottom: 25px;
+    }
+    .sidebar-menu{
+        text-align: center;
+    }
+    .sidebar-menu ul li {
+        margin-bottom: 27px;
+    }
+    #banner {
+        padding-top: 163px;
+        padding-bottom: 75px;
+    }
+    .banner-left-content h3 {
+        font-size: 20px;
+    }
+    .banner-left-content h1 {
+        font-size: 32px;
+        display: inline-block;
+    }
+    .banner-left-content h1::before {
+        bottom: 3px;
+        right: -60px;
+        width: 56px;
+    }
+    .banner-left-content p {
+        font-size: 14px;
+        padding-right: 0;
+    }
+    .banner-read {
+        margin-top: 15px;
+    }
+    .banner-read a {
+        font-size: 14px;
+    }
+    .ban-link {
+        padding: 7px 12px;
+    }
+    #about {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #about .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #about .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .about-bg::after {
+        top: -2px;
+        left: -3px;
+        border-width: 93px 108px 0 0;
+    }
+    .about-left h4 {
+        font-size: 18px;
+        width: 252px;
+        margin: 20px 0;
+    }
+    .about-left ul li {
+        font-size: 14px;
+    }
+    .about-left p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .main-link {
+        padding: 7px 12px;
+    }
+    .about-left-btn a {
+        font-size: 14px;
+    }
+    .counter-up {
+        margin-bottom: 20px;
+        padding: 19px;
+        clip-path: none;
+    }
+    .counter-up h3 {
+        font-size: 50px;
+    }
+    #trend {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #trend .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #trend .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    #tournament {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #tournament .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #tournament .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    #tournament .play-icon i {
+        font-size: 16px;
+        width: 40px;
+        height: 40px;
+        line-height: 38px;
+    }
+    .tour-content h3 {
+        font-size: 20px;
+    }
+    .tour-content p {
+        font-size: 14px;
+    }
+    .right-trnmnt{
+        text-align: center;
+    }
+    .tour-right p {
+        font-size: 14px;
+    }
+    .tour-right span {
+        width: 3px;
+        height: 3px;
+    }
+    .left-tour{
+        margin: 0 auto;
+    }
+    .main-trnmt {
+        background-color: #212121;
+        padding: 10px;
+        clip-path: none;
+    }
+    #sale {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #sale .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #sale .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .item-sale{
+        margin-bottom: 50px;
+    }
+    .main-catalog {
+        padding: 15px;
+        padding-bottom: 40px;
+    }
+    .catalog-header{
+        text-align: center;
+    }
+    .inner-catalog-header p {
+        text-align: center;
+    }
+    .catalog-body h5 {
+        font-size: 25px;
+        line-height: 38px;
+        text-align: center;
+    }
+    .catalog-body p {
+        font-size: 14px;
+        line-height: 24px;
+        text-align: center;
+    }
+    .catalog-browse {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .catalog-browse button {
+        font-size: 14px;
+        padding: 7px 12px;
+    }
+    #catalog .popular h2 {
+        font-size: 22px;
+        text-align: start;
+    }
+    #catalog .wishlist a {
+        font-size: 19px;
+        line-height: 0;
+    }
+    #store {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #store  .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #store  .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    #team {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    #team  .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #team  .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    #faq {
+        padding-top: 40px;
+        padding-bottom: 80px;
+    }
+    #faq   .header h2 {
+        font-size: 30px;
+        line-height: 44px;
+        text-align: center;
+    }
+    #faq  .header h2::after {
+        bottom: -17px;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+    .all-faq-item:after,
+    .all-faq-item::before{
+        display: none;
+    }
+    .right-faq{
+        text-align: center;
+        margin-top: 20px;
+    }
+    .main-faq-part {
+        margin-bottom: 40px !important;
+    }
+    .footer-top {
+        padding: 19px;
+        margin-top: -165px;
+    }
+    .intro h2 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .left-footer{
+        text-align: center;
+    }
+    .left-footer-content p {
+        font-size: 14px;
+        padding-right: 0px;
+        line-height: 24px;
+    }
+    .others-footer{
+        text-align: center;
+    }
+    .popular{
+        text-align: center;
+    }
+    #wishlist .wishlist-content h3 {
+        font-size: 38px;
+    }
+    #wishlist .wishlist-content p {
+        font-size: 17px;
+    }
+    .preloader h2 {
+        font-size: 26px;
+        line-height: 0.8;
+        margin-top: -121px;
+    }
+}
